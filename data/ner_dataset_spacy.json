@@ -1,0 +1,2459 @@
+[
+    [
+        "There is a dog in the picture .",
+        {
+            "entities": [
+                [
+                    11,
+                    14,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A dog is running in the park .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The dog is playing with a ball .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I can see a dog on the beach .",
+        {
+            "entities": [
+                [
+                    12,
+                    15,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a small dog next to the tree .",
+        {
+            "entities": [
+                [
+                    17,
+                    20,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The brown dog is sleeping on the sofa .",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I took a picture of a dog .",
+        {
+            "entities": [
+                [
+                    22,
+                    25,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The dog is barking loudly .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She has a pet dog .",
+        {
+            "entities": [
+                [
+                    14,
+                    17,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I adopted a stray dog yesterday .",
+        {
+            "entities": [
+                [
+                    18,
+                    21,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The dog chased the cat around the yard .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ],
+                [
+                    19,
+                    22,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A dog was found near the lake .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "My neighbor has a friendly dog .",
+        {
+            "entities": [
+                [
+                    27,
+                    30,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a big dog at the park .",
+        {
+            "entities": [
+                [
+                    12,
+                    15,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The dog is digging a hole in the sand .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "That dog belongs to my friend .",
+        {
+            "entities": [
+                [
+                    5,
+                    8,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A dog and a cat are sleeping together .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ],
+                [
+                    12,
+                    15,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I found a lost dog on the street .",
+        {
+            "entities": [
+                [
+                    15,
+                    18,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The dog is looking out of the window .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "My dog loves to play fetch .",
+        {
+            "entities": [
+                [
+                    3,
+                    6,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a cat in the picture .",
+        {
+            "entities": [
+                [
+                    11,
+                    14,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A cat is sitting on the sofa .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a black cat yesterday .",
+        {
+            "entities": [
+                [
+                    14,
+                    17,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cat is chasing a mouse .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She has a cute cat .",
+        {
+            "entities": [
+                [
+                    15,
+                    18,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A cat was sleeping on my bed .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "My cat loves to play with a ball .",
+        {
+            "entities": [
+                [
+                    3,
+                    6,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cat jumped on the table .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A white cat is sitting by the window .",
+        {
+            "entities": [
+                [
+                    8,
+                    11,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cat was hiding under the couch .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I adopted a rescued cat .",
+        {
+            "entities": [
+                [
+                    20,
+                    23,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "My cat follows me around the house .",
+        {
+            "entities": [
+                [
+                    3,
+                    6,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A cat and a dog are friends .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ],
+                [
+                    12,
+                    15,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cat is watching the birds outside .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She fed her cat some tuna .",
+        {
+            "entities": [
+                [
+                    12,
+                    15,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a sleeping cat on the chair .",
+        {
+            "entities": [
+                [
+                    20,
+                    23,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cat climbed a tree to escape the dog .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ],
+                [
+                    37,
+                    40,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A cat was curled up in a blanket .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "My friend has two cats .",
+        {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cat meowed loudly for food .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a horse in the picture .",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A horse is running in the field .",
+        {
+            "entities": [
+                [
+                    2,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a brown horse yesterday .",
+        {
+            "entities": [
+                [
+                    14,
+                    19,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The horse is jumping over a fence .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She has a beautiful horse .",
+        {
+            "entities": [
+                [
+                    20,
+                    25,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A horse was grazing in the meadow .",
+        {
+            "entities": [
+                [
+                    2,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "My horse loves to run fast .",
+        {
+            "entities": [
+                [
+                    3,
+                    8,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The horse neighed loudly when it saw me .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A white horse is standing near the barn .",
+        {
+            "entities": [
+                [
+                    8,
+                    13,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The horse was galloping across the beach .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I adopted a rescued horse .",
+        {
+            "entities": [
+                [
+                    20,
+                    25,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "My horse follows me everywhere .",
+        {
+            "entities": [
+                [
+                    3,
+                    8,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A horse and a donkey were in the stable .",
+        {
+            "entities": [
+                [
+                    2,
+                    7,
+                    "ANIMAL"
+                ],
+                [
+                    14,
+                    20,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The horse is drinking water from a trough .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She fed her horse some carrots .",
+        {
+            "entities": [
+                [
+                    12,
+                    17,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a racing horse on the track .",
+        {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The horse kicked its legs in the air .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A horse was standing under the tree .",
+        {
+            "entities": [
+                [
+                    2,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "My friend has two horses .",
+        {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The horse trotted towards the gate .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a spider on the wall .",
+        {
+            "entities": [
+                [
+                    11,
+                    17,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A spider is crawling on the ceiling .",
+        {
+            "entities": [
+                [
+                    2,
+                    8,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a big spider in the corner .",
+        {
+            "entities": [
+                [
+                    12,
+                    18,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The spider built a web overnight .",
+        {
+            "entities": [
+                [
+                    4,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She is afraid of spiders .",
+        {
+            "entities": [
+                [
+                    17,
+                    24,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A tiny spider was hiding under the table .",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "My spider escaped from its cage .",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The spider had long thin legs .",
+        {
+            "entities": [
+                [
+                    4,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A black spider is on the floor .",
+        {
+            "entities": [
+                [
+                    8,
+                    14,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The spider was dangling from a thread .",
+        {
+            "entities": [
+                [
+                    4,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I found a spider in my shoes .",
+        {
+            "entities": [
+                [
+                    10,
+                    16,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "My spider eats crickets for food .",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A spider and an ant were on the window .",
+        {
+            "entities": [
+                [
+                    2,
+                    8,
+                    "ANIMAL"
+                ],
+                [
+                    16,
+                    19,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The spider spun a large web overnight .",
+        {
+            "entities": [
+                [
+                    4,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She carefully moved the spider outside .",
+        {
+            "entities": [
+                [
+                    24,
+                    30,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a poisonous spider in the garden .",
+        {
+            "entities": [
+                [
+                    21,
+                    27,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The spider was sitting on a leaf .",
+        {
+            "entities": [
+                [
+                    4,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A red spider was spinning a web .",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I don't like spiders in my room .",
+        {
+            "entities": [
+                [
+                    13,
+                    20,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The spider quickly climbed up the wall .",
+        {
+            "entities": [
+                [
+                    4,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a butterfly on the flower .",
+        {
+            "entities": [
+                [
+                    11,
+                    20,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A butterfly is flying near the garden .",
+        {
+            "entities": [
+                [
+                    2,
+                    11,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a beautiful butterfly yesterday .",
+        {
+            "entities": [
+                [
+                    18,
+                    27,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The butterfly landed on my hand .",
+        {
+            "entities": [
+                [
+                    4,
+                    13,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She loves watching butterflies in the spring .",
+        {
+            "entities": [
+                [
+                    19,
+                    30,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A yellow butterfly was hovering over the grass .",
+        {
+            "entities": [
+                [
+                    9,
+                    18,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "My butterfly collection has many species .",
+        {
+            "entities": [
+                [
+                    3,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The butterfly spread its colorful wings .",
+        {
+            "entities": [
+                [
+                    4,
+                    13,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A black butterfly flew past us .",
+        {
+            "entities": [
+                [
+                    8,
+                    17,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The butterfly was resting on a leaf .",
+        {
+            "entities": [
+                [
+                    4,
+                    13,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I found a butterfly inside my house .",
+        {
+            "entities": [
+                [
+                    10,
+                    19,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "My butterfly garden attracts many insects .",
+        {
+            "entities": [
+                [
+                    3,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A butterfly and a bee were on the same flower .",
+        {
+            "entities": [
+                [
+                    2,
+                    11,
+                    "ANIMAL"
+                ],
+                [
+                    18,
+                    21,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The butterfly flapped its wings gently .",
+        {
+            "entities": [
+                [
+                    4,
+                    13,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She painted a beautiful butterfly on her canvas .",
+        {
+            "entities": [
+                [
+                    24,
+                    33,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a blue butterfly on the tree .",
+        {
+            "entities": [
+                [
+                    16,
+                    25,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The butterfly was dancing in the air .",
+        {
+            "entities": [
+                [
+                    4,
+                    13,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A giant butterfly landed on his shoulder .",
+        {
+            "entities": [
+                [
+                    8,
+                    17,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I don't like butterflies inside my room .",
+        {
+            "entities": [
+                [
+                    13,
+                    24,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The butterfly flew around the garden for hours .",
+        {
+            "entities": [
+                [
+                    4,
+                    13,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a chicken in the yard .",
+        {
+            "entities": [
+                [
+                    11,
+                    18,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a chicken pecking at the ground .",
+        {
+            "entities": [
+                [
+                    8,
+                    15,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The chicken was scratching the dirt .",
+        {
+            "entities": [
+                [
+                    4,
+                    11,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A chicken is in the coop .",
+        {
+            "entities": [
+                [
+                    2,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She fed the chicken some corn .",
+        {
+            "entities": [
+                [
+                    12,
+                    19,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The chicken laid an egg this morning .",
+        {
+            "entities": [
+                [
+                    4,
+                    11,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A fluffy chicken was running around . it looked happy .",
+        {
+            "entities": [
+                [
+                    9,
+                    16,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The chicken is clucking loudly . It seems hungry .",
+        {
+            "entities": [
+                [
+                    4,
+                    11,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A chicken walked past me . It was beautiful .",
+        {
+            "entities": [
+                [
+                    2,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The chicken is sitting on its nest .",
+        {
+            "entities": [
+                [
+                    4,
+                    11,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There are chickens running around the farm .",
+        {
+            "entities": [
+                [
+                    10,
+                    18,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I found a chicken wandering near the barn .",
+        {
+            "entities": [
+                [
+                    10,
+                    17,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The chicken pecked at the ground and then walked away .",
+        {
+            "entities": [
+                [
+                    4,
+                    11,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She kept the chicken in the henhouse .",
+        {
+            "entities": [
+                [
+                    13,
+                    20,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The chicken was pecking at the seeds . It looked content .",
+        {
+            "entities": [
+                [
+                    4,
+                    11,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I watched as the chicken flapped its wings .",
+        {
+            "entities": [
+                [
+                    17,
+                    24,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The chicken is very friendly . It likes to be held .",
+        {
+            "entities": [
+                [
+                    4,
+                    11,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A chicken sat on the edge of the fence .",
+        {
+            "entities": [
+                [
+                    2,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The chicken chased a bug . It seemed very curious .",
+        {
+            "entities": [
+                [
+                    4,
+                    11,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There are many chickens in the coop .",
+        {
+            "entities": [
+                [
+                    15,
+                    23,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a sheep grazing in the field .",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a sheep with a fluffy wool .",
+        {
+            "entities": [
+                [
+                    8,
+                    13,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The sheep was bleating loudly . It was hungry .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A sheep is sleeping under the tree .",
+        {
+            "entities": [
+                [
+                    2,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The sheep are running across the meadow .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She was counting the sheep to fall asleep .",
+        {
+            "entities": [
+                [
+                    21,
+                    26,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A sheep was eating grass next to the fence .",
+        {
+            "entities": [
+                [
+                    2,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The sheep were gathered together in the pen .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I found a sheep near the gate .",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The sheep walked slowly through the pasture .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A fluffy sheep was resting on the grass .",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The sheep is watching the farmer from the fence .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She saw a sheep on the hill .",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The sheep is standing next to a tree .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A sheep has a thick coat . It lives on the farm .",
+        {
+            "entities": [
+                [
+                    2,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The sheep is eating from the trough . It looks content .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I heard a sheep crying this morning .",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The sheep are in the barn .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She is taking care of the sheep on her farm .",
+        {
+            "entities": [
+                [
+                    26,
+                    31,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The sheep are gathering around the watering hole .",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a cow in the field .",
+        {
+            "entities": [
+                [
+                    11,
+                    14,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a cow eating grass . It looked content .",
+        {
+            "entities": [
+                [
+                    8,
+                    11,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cow was grazing on the green pasture .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A cow was standing under a tree .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cow has a calf by her side .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ],
+                [
+                    14,
+                    18,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A cow is sitting near the barn .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cow is moaning . She seems hungry .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A cow was drinking water from the trough .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cow has a big udder . It is very gentle .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A cow walked past me . It was peaceful .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cow is resting in the shade . It looks calm .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I heard a cow mooing this morning .",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cow is walking towards the fence .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is a cow standing next to the field .",
+        {
+            "entities": [
+                [
+                    11,
+                    14,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cow is sitting on the green grass .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A cow is napping under the oak tree .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cow has a long tail . It was swishing it around .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a cow on the horizon . It looked majestic .",
+        {
+            "entities": [
+                [
+                    8,
+                    11,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cow is watching us from the hill .",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A cow was trotting across the meadow .",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a squirrel running across the yard .",
+        {
+            "entities": [
+                [
+                    8,
+                    16,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The squirrel was hiding nuts in the tree .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A squirrel was climbing the tree . It was quick .",
+        {
+            "entities": [
+                [
+                    2,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The squirrel jumped from one branch to another .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There was a squirrel eating a nut on the ground .",
+        {
+            "entities": [
+                [
+                    12,
+                    20,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A squirrel ran across the road . It was fast .",
+        {
+            "entities": [
+                [
+                    2,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a squirrel with a fluffy tail . It was so cute .",
+        {
+            "entities": [
+                [
+                    8,
+                    16,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The squirrel is sitting on a branch . It is watching me .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A squirrel was scurrying along the fence .",
+        {
+            "entities": [
+                [
+                    2,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The squirrel was gathering acorns for winter .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A squirrel is sitting on the tree trunk . It looks curious .",
+        {
+            "entities": [
+                [
+                    2,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a squirrel chasing its tail . It was so funny .",
+        {
+            "entities": [
+                [
+                    8,
+                    16,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The squirrel is nibbling on a seed . It looks hungry .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A squirrel is hopping from branch to branch .",
+        {
+            "entities": [
+                [
+                    2,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The squirrel was jumping over rocks in the park .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I noticed a squirrel watching me from the tree .",
+        {
+            "entities": [
+                [
+                    12,
+                    20,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A squirrel is digging a hole in the ground .",
+        {
+            "entities": [
+                [
+                    2,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The squirrel is climbing a tree very quickly .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A squirrel was sitting on the fence . It was gazing around .",
+        {
+            "entities": [
+                [
+                    2,
+                    10,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The squirrel was darting through the bushes . It was so fast .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The squirrel was hiding behind the rocks .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw a huge elephant in the zoo .",
+        {
+            "entities": [
+                [
+                    13,
+                    21,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The elephant was walking across the savannah .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A baby elephant was playing with its family .",
+        {
+            "entities": [
+                [
+                    7,
+                    15,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The elephant was drinking water from the river .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is an elephant in the wild . It looks majestic .",
+        {
+            "entities": [
+                [
+                    12,
+                    20,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A large elephant was standing near the tree .",
+        {
+            "entities": [
+                [
+                    8,
+                    16,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The elephant has big ears . It is a gentle creature .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A herd of elephants was crossing the road .",
+        {
+            "entities": [
+                [
+                    10,
+                    19,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The elephant was feeding on grass under the shade .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw an elephant raising its trunk .",
+        {
+            "entities": [
+                [
+                    9,
+                    17,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The elephant was spraying water with its trunk .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A group of elephants is walking together in the jungle .",
+        {
+            "entities": [
+                [
+                    11,
+                    20,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The elephant has a long trunk .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I witnessed an elephant migrating across the land .",
+        {
+            "entities": [
+                [
+                    15,
+                    23,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The elephant is playing in the mud .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "A baby elephant was splashing in the water .",
+        {
+            "entities": [
+                [
+                    7,
+                    15,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The elephant was giving birth to a calf .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ],
+                [
+                    35,
+                    39,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "I saw an elephant standing in the rain .",
+        {
+            "entities": [
+                [
+                    9,
+                    17,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "The elephant was lifting its ears .",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "There is an elephant walking through the jungle .",
+        {
+            "entities": [
+                [
+                    12,
+                    20,
+                    "ANIMAL"
+                ]
+            ]
+        }
+    ]
+]
