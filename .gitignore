@@ -1,4 +1,7 @@
 .idea/
 .venv/
 
+ner_model
+vgg16
+
 utils/__pycache__
